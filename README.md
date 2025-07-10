@@ -19,7 +19,8 @@
 
 ---
 
-<h2 align="center">🎧 Now Playing on Spotify</h2>
+### 🎧 Now Playing on Spotify
+
 <p align="center">
   <a href="https://open.spotify.com/user/31vyk5eyp6mxwosr3wvf2oyxv44u" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vyk5eyp6mxwosr3wvf2oyxv44u&count=1&width=600&unique=true&background=1c1c1e&border_color=00ffff" 
@@ -28,7 +29,6 @@
          style="border-radius: 12px; box-shadow: 0 0 20px #00ffff;" />
   </a>
 </p>
-
 
 
 ---
