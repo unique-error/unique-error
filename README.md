@@ -21,7 +21,9 @@
 
 <br>
 
-<h2 align="center">🎧 Now Playing on Spotify
+<br>
+
+<h2 align="center">🎧 Now Playing on Spotify</h2>
 
 <p align="center">
   <a href="https://open.spotify.com/user/31vyk5eyp6mxwosr3wvf2oyxv44u" target="_blank">
@@ -31,8 +33,6 @@
          style="border-radius: 12px; box-shadow: 0 0 20px #00ffff;" />
   </a>
 </p>
-
-<br>
 
 ---
 
