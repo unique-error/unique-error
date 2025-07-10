@@ -31,32 +31,33 @@
 
 ---
 
-### 🧠 Who Am I?
 
-🧠 A mind full of ideas  
-🎭 A heart full of rhythm  
-🖥️ A keyboard full of dreams  
+### 🧠 𝗪ʜᴏ 𝗔ᴍ 𝗜?
 
-I don’t just build websites — I build **vibes**.  
-Minimal by design, bold by nature. 🎯
+🧠 ᴀ ᴍɪɴᴅ ꜰᴜʟʟ ᴏꜰ ɪᴅᴇᴀꜱ  
+🎭 ᴀ ʜᴇᴀʀᴛ ꜰᴜʟʟ ᴏꜰ ʀʜʏᴛʜᴍ  
+🖥️ ᴀ ᴋᴇʏʙᴏᴀʀᴅ ꜰᴜʟʟ ᴏꜰ ᴅʀᴇᴀᴍꜱ  
 
----
-
-### 🔧 Skills I Blend
-
-- 🎨 Design with emotion  
-- 💡 Ideas with impact  
-- 🎶 Audio with ambiance  
-- 🔧 Code with class  
+ɪ ᴅᴏɴ’ᴛ ᴊᴜꜱᴛ ʙᴜɪʟᴅ ᴡᴇʙꜱɪᴛᴇꜱ — ɪ ʙᴜɪʟᴅ **ᴠɪʙᴇꜱ**  
+ᴍɪɴɪᴍᴀʟ ʙʏ ᴅᴇꜱɪɢɴ, ʙᴏʟᴅ ʙʏ ɴᴀᴛᴜʀᴇ. 🎯
 
 ---
 
-### 💻 Tech Stack
+### 🔧 𝗦ᴋɪʟʟꜱ 𝗜 𝗕ʟᴇɴᴅ
 
-- HTML5  
-- CSS3 (Font Awesome + Google Fonts)  
-- JavaScript (Vanilla)  
-- GitHub Pages Hosting  
+- 🎨 ᴅᴇꜱɪɢɴ ᴡɪᴛʜ ᴇᴍᴏᴛɪᴏɴ  
+- 💡 ɪᴅᴇᴀꜱ ᴡɪᴛʜ ɪᴍᴘᴀᴄᴛ  
+- 🎶 ᴀᴜᴅɪᴏ ᴡɪᴛʜ ᴀᴍʙɪᴀɴᴄᴇ  
+- 🔧 ᴄᴏᴅᴇ ᴡɪᴛʜ ᴄʟᴀꜱꜱ  
+
+---
+
+### 💻 𝗧ᴇᴄʜ ꜱᴛᴀᴄᴋ
+
+- ʜᴛᴍʟ𝟻  
+- ᴄꜱꜱ𝟹 (ꜰᴏɴᴛ ᴀᴡᴇꜱᴏᴍᴇ + ɢᴏᴏɢʟᴇ ꜰᴏɴᴛꜱ)  
+- ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ (ᴠᴀɴɪʟʟᴀ)  
+- ɢɪᴛʜᴜʙ ᴘᴀɢᴇꜱ ʜᴏꜱᴛɪɴɢ  
 
 ---
 
