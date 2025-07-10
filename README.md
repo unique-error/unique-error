@@ -23,11 +23,8 @@
 
 ### 🎧 Now Playing on Spotify
 
-<p align="center">
-  <a href="https://open.spotify.com/user/31vyk5eyp6mxwosr3wvf2oyxv44u" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vyk5eyp6mxwosr3wvf2oyxv44u&count=1" alt="Recent Spotify Track" />
-  </a>
-</p>
+[![Spotify](https://github-readme-spotify.vercel.app/api/spotify?background_color=000000&border_color=00ffff&border_radius=10&bar_color=00ffff&bar_color_cover=true&track_name_font_weight=700&username=31vyk5eyp6mxwosr3wvf2oyxv44)](https://open.spotify.com/user/31vyk5eyp6mxwosr3wvf2oyxv44)
+
 
 ---
 
