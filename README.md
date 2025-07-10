@@ -1,64 +1,72 @@
+<!-- PROFILE HEADER -->
 <div align="center">
-  <img height="150" src="https://ugc.production.linktr.ee/91484763-2051-4da1-8bf6-9e9060a7af45_New-file-ezgif.com-crop.gif?io=true&size=avatar"  />
+  <img src="https://ugc.production.linktr.ee/91484763-2051-4da1-8bf6-9e9060a7af45_New-file-ezgif.com-crop.gif?io=true&size=avatar" height="160" alt="Profile Gif"/>
 </div>
 
-###
+<h1 align="center">💫 𝐒𝐚𝐌 𝐑𝐚𝐉𝐏𝐮𝐓 💫</h1>
+<p align="center"><i>🎙️ Video Creator • 🎭 Entertainer • 🎧 Singer</i></p>
 
+---
+
+<!-- SOCIAL BADGES -->
 <div align="center">
+
   <a href="https://www.linkedin.com/in/joginder-singh-rajput/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
   <a href="https://t.me/UniQueErrOr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" />
   </a>
   <a href="https://www.facebook.com/Mr.Sa1M" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="25" />
   </a>
   <a href="https://www.instagram.com/unique__error" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" />
   </a>
   <a href="https://www.youtube.com/@uniqueerror" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25" />
   </a>
   <a href="https://x.com/unique_error" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25" />
   </a>
+
 </div>
 
-###
+<!-- VISITOR BADGE -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=unique-error.unique-error&" alt="Visitor badge" />
+</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=unique-error.unique-error&"  />
-</div>
+---
 
-###
+### 🧠 **About Me**
 
-<h1 align="center">𝐒𝐚𝐌 𝐑𝐚𝐉𝐏𝐮𝐓</h1>
+🪩 **Birthday:** ❶➈ 𝐉𝐮𝐥𝐲  
+🆂🆃🅰️🆃🆄🆂 – Single  
+🅷🅴🅰️🆁🆃 – Broken  
+🅼🅸🅽🅳 – Searching peace  
+🅻🅸🅵🅴 – Still has hope 😇  
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 🎯 **What I Do**
 
-###
+- 🎙️ **Singing**: I bring emotions to life through music  
+- 🎬 **Acting**: Stage, camera, or reel — I perform everywhere  
+- 💫 **Always Learning**: Creativity never sleeps  
 
-<h6 align="left">𝐕𝐢𝐝𝐞𝐨 𝐜𝐫𝐞𝐚𝐭𝐞𝐫<br>|𝐄𝐧𝐭𝐞𝐫𝐭𝐚𝐢𝐧𝐞𝐫| 𝐒𝐢𝐧𝐠𝐞𝐫 𝕎𝕚𝕤𝕙 𝕞𝕖 | ▁ ▂ ▇ █ ❶➈ 𝕁Ｕˡ𝐲 █ ▇ ▁ ▂<br><br>🆂🆃🅰️🆃🆄🆂 :-  🆂🅸🅽🅶🅻🅴  <br>🅷🅴🅰️🆁🆃 :- 🅱️🆁🅾️🅺🅴🅽    <br>🅼🅸🅽🅳 :- 🆂🅴🅰️🆁🅲🅷🅸🅽🅶 🅿️🅴🅰️🅲🅴     <br>🅻🅸🅵🅴 :- 🆂🆃🅸🅻🅻 🅷🅰️🆂 🅰️ 🅷🅾️🅿️🅴</h6>
+---
 
-###
+### ✨ **My Vibe**
 
-<h6 align="left">🎭 What I Do:<br>🎙️ Singing <br>🎬 Acting<br>💫 Always learning, always performing</h6>
+<p align="left">
+I’m not just a creator — I’m a vibe.  
+Every reel, every post, every lyric — it speaks **my style, my rhythm, and my story**.  
+From chaos to creativity, I turn every beat into something bold and meaningful. 🎭🎶🔥  
+</p>
 
-###
+---
 
-<div align="left">
-</div>
-
-###
-
-<p align="left">I'm a performer who loves bringing stories to life through singing and acting. Whether it's on stage, on camera, or in the studio — I'm all about expression, emotion, and creativity.🎭</p>
-
-###
-
-<div align="center">
-</div>
-
-###
+<p align="center">
+  🔥 Crafted with soul, sound & sass by <b>SaM RaJPuT</b> 💙  
+</p>
