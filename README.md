@@ -11,11 +11,9 @@
 
 ---
 
-### 🌐 Live Portfolio
-
 <p align="center">
   <a href="https://unique-error.github.io/samrajput/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Live–Site-111827?style=for-the-badge&logo=github&logoColor=00ffff&color=2d2d2d" />
+    <img src="https://img.shields.io/badge/🌐 Live–Portfolio-111827?style=for-the-badge&logo=github&logoColor=00ffff&color=2d2d2d" />
   </a>
 </p>
 
