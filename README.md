@@ -1,67 +1,84 @@
-<!-- PROFILE CENTER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/unique-error/samrajput/main/assets/sam.jpg"
-       width="140" height="140"
-       style="border-radius: 50%; background-color: #ffffff; box-shadow: 0 0 12px #00ffff;" alt="Sam Rajput" />
-</p>
+<br clear="both">
 
-<h1 align="center">Hey there, I'm <span style="color:#00FFFF;">SaM RaJPuT</span> 👋<h2>
+<div align="center">
+  <img height="150" src="https://ugc.production.linktr.ee/91484763-2051-4da1-8bf6-9e9060a7af45_New-file-ezgif.com-crop.gif?io=true&size=avatar"  />
+</div>
 
-<p align="center">ᴅɪɢɪᴛᴀʟ ᴄʀᴀꜰᴛᴇʀ • ᴠɪꜱᴜᴀʟ ᴠɪʙᴇꜱ • ᴄᴏᴅᴇ ᴍᴇᴇᴛꜱ ᴄʀᴇᴀᴛɪᴠɪᴛʏ</p>
+###
 
----
-
-<p align="center">
-  <a href="https://unique-error.github.io/samrajput/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Live–Portfolio-111827?style=for-the-badge&logo=github&logoColor=00ffff&color=2d2d2d" />
+<div align="center">
+  <a href="https://linktr.ee/unique__error" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
   </a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31vyk5eyp6mxwosr3wvf2oyxv44u" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vyk5eyp6mxwosr3wvf2oyxv44u&count=1&width=600&unique=true&background=1c1c1e&border_color=00ffff" 
-         alt="Spotify Now Playing"
-         width="600" 
-         style="border-radius: 12px; box-shadow: 0 0 25px #00ffff;" />
+  <a href="https://t.me/UniQueErrOr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-</p>
+</div>
 
+###
 
----
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=unique-error.unique-error&"  />
+</div>
 
+###
 
-### 🧠 𝗪ʜᴏ 𝗔ᴍ 𝗜?
+<h1 align="center">𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐔𝐧𝐢𝐐𝐮𝐞 𝐄𝐫𝐫𝐎𝐫👋</h1>
 
-- 🧠 ᴀ ᴍɪɴᴅ ꜰᴜʟʟ ᴏꜰ ɪᴅᴇᴀꜱ  
-- 🎭 ᴀ ʜᴇᴀʀᴛ ꜰᴜʟʟ ᴏꜰ ʀʜʏᴛʜᴍ  
-- 🖥️ ᴀ ᴋᴇʏʙᴏᴀʀᴅ ꜰᴜʟʟ ᴏꜰ ᴅʀᴇᴀᴍꜱ  
+###
 
-ɪ ᴅᴏɴ’ᴛ ᴊᴜꜱᴛ ʙᴜɪʟᴅ ᴡᴇʙꜱɪᴛᴇꜱ — ɪ ʙᴜɪʟᴅ **ᴠɪʙᴇꜱ**  
-ᴍɪɴɪᴍᴀʟ ʙʏ ᴅᴇꜱɪɢɴ, ʙᴏʟᴅ ʙʏ ɴᴀᴛᴜʀᴇ. 🎯
+<h3 align="left">🧠 𝗪ʜᴏ 𝗔ᴍ 𝗜?</h3>
 
----
+###
 
-### 🔧 𝗦ᴋɪʟʟꜱ 𝗜 𝗕ʟᴇɴᴅ
+<p align="left">🧠 ᴀ ᴍɪɴᴅ ꜰᴜʟʟ ᴏꜰ ɪᴅᴇᴀꜱ<br>🎭 ᴀ ʜᴇᴀʀᴛ ꜰᴜʟʟ ᴏꜰ ʀʜʏᴛʜᴍ<br>🖥️ ᴀ ᴋᴇʏʙᴏᴀʀᴅ ꜰᴜʟʟ ᴏꜰ ᴅʀᴇᴀᴍꜱ<br>ɪ ᴅᴏɴ’ᴛ ᴊᴜꜱᴛ ʙᴜɪʟᴅ ᴡᴇʙꜱɪᴛᴇꜱ — ɪ ʙᴜɪʟᴅ ᴠɪʙᴇꜱ<br>ᴍɪɴɪᴍᴀʟ ʙʏ ᴅᴇꜱɪɢɴ, ʙᴏʟᴅ ʙʏ ɴᴀᴛᴜʀᴇ. 🎯</p>
 
-- 🎨 ᴅᴇꜱɪɢɴ ᴡɪᴛʜ ᴇᴍᴏᴛɪᴏɴ  
-- 💡 ɪᴅᴇᴀꜱ ᴡɪᴛʜ ɪᴍᴘᴀᴄᴛ  
-- 🎶 ᴀᴜᴅɪᴏ ᴡɪᴛʜ ᴀᴍʙɪᴀɴᴄᴇ  
-- 🔧 ᴄᴏᴅᴇ ᴡɪᴛʜ ᴄʟᴀꜱꜱ  
+###
 
----
+<h3 align="left">🛠 Language and tools</h3>
 
-### 💻 𝗧ᴇᴄʜ ꜱᴛᴀᴄᴋ
+###
 
-- ʜᴛᴍʟ𝟻  
-- ᴄꜱꜱ𝟹 (ꜰᴏɴᴛ ᴀᴡᴇꜱᴏᴍᴇ + ɢᴏᴏɢʟᴇ ꜰᴏɴᴛꜱ)  
-- ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ (ᴠᴀɴɪʟʟᴀ)  
-- ɢɪᴛʜᴜʙ ᴘᴀɢᴇꜱ ʜᴏꜱᴛɪɴɢ  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+</div>
 
----
+###
 
-<p align="center">
-  🧠 Code. 🎭 Perform. 💫 Inspire. <br>
-  Built with 💙 by <b>SaM RaJPuT</b>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=unique-error&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31vyk5eyp6mxwosr3wvf2oyxv44u">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vyk5eyp6mxwosr3wvf2oyxv44u&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
+</div>
+
+###
