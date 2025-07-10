@@ -7,7 +7,7 @@
 
 <h1 align="center">Hey there, I'm <span style="color:#00FFFF;">SaM RaJPuT</span> 👋
 
-<p align="center"><i>Digital Crafter • Visual Vibes • Code Meets Creativity</i></p>
+<p align="center">ᴅɪɢɪᴛᴀʟ ᴄʀᴀꜰᴛᴇʀ • ᴠɪꜱᴜᴀʟ ᴠɪʙᴇꜱ • ᴄᴏᴅᴇ ᴍᴇᴇᴛꜱ ᴄʀᴇᴀᴛɪᴠɪᴛʏ</p>
 
 ---
 
