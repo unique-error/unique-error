@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://unique-error.github.io/samrajput/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=🌐 Live Portfolio&logo=githubpages&label=&color=00ffff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="live portfolio" />
+    <img src="https://img.shields.io/badge/🌐 Live–Portfolio-111827?style=for-the-badge&logo=github&logoColor=00ffff&color=2d2d2d" />
   </a>
   <a href="https://linktr.ee/unique__error" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo" />
