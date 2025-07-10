@@ -25,9 +25,10 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/31vyk5eyp6mxwosr3wvf2oyxv44u" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31vyk5eyp6mxwosr3wvf2oyxv44u&cover_image=true&theme=novatorem&bar_color=00ffff&bar_color_cover=false" alt="Now Playing on Spotify" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vyk5eyp6mxwosr3wvf2oyxv44u&count=1" alt="Recent Spotify Track" />
   </a>
 </p>
+
 
 ---
 
