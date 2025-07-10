@@ -21,9 +21,18 @@
 
 ---
 
-### 🎧 Now Playing on Spotify
+---
 
-[![Spotify](https://github-readme-spotify.vercel.app/api/spotify?background_color=000000&border_color=00ffff&border_radius=10&bar_color=00ffff&bar_color_cover=true&track_name_font_weight=700&username=31vyk5eyp6mxwosr3wvf2oyxv44)](https://open.spotify.com/user/31vyk5eyp6mxwosr3wvf2oyxv44)
+<h2 align="center">🎧 Now Playing on Spotify</h2>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31vyk5eyp6mxwosr3wvf2oyxv44u" target="_blank">
+    <img src="https://github-readme-spotify.vercel.app/api/spotify?background_color=000000&border_color=00ffff&border_radius=10&bar_color=00ffff&bar_color_cover=true&track_name_font_weight=700&username=31vyk5eyp6mxwosr3wvf2oyxv44u" 
+         alt="Spotify Now Playing" 
+         width="100%" 
+         style="border-radius: 12px; box-shadow: 0 0 20px #00ffff;" />
+  </a>
+</p>
 
 
 ---
