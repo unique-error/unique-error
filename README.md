@@ -1,72 +1,66 @@
-<!-- PROFILE HEADER -->
-<div align="center">
-  <img src="https://ugc.production.linktr.ee/91484763-2051-4da1-8bf6-9e9060a7af45_New-file-ezgif.com-crop.gif?io=true&size=avatar" height="160" alt="Profile Gif"/>
-</div>
+<!-- PROFILE CENTER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/unique-error/samrajput/main/assets/sam.jpg"
+       width="140" height="140"
+       style="border-radius: 50%; background-color: #ffffff; box-shadow: 0 0 12px #00ffff;" alt="Sam Rajput" />
+</p>
 
-<h1 align="center">💫 𝐒𝐚𝐌 𝐑𝐚𝐉𝐏𝐮𝐓 💫</h1>
-<p align="center"><i>🎙️ Video Creator • 🎭 Entertainer • 🎧 Singer</i></p>
+<h1 align="center">Hey there, I'm <span style="color:#00FFFF;">SaM RaJPuT</span> 👋</h1>
+
+<p align="center"><i>Digital Crafter • Visual Vibes • Code Meets Creativity</i></p>
 
 ---
 
-<!-- SOCIAL BADGES -->
-<div align="center">
+### 🌐 Live Portfolio
 
-  <a href="https://www.linkedin.com/in/joginder-singh-rajput/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
-  </a>
-  <a href="https://t.me/UniQueErrOr" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" />
-  </a>
-  <a href="https://www.facebook.com/Mr.Sa1M" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="25" />
-  </a>
-  <a href="https://www.instagram.com/unique__error" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" />
-  </a>
-  <a href="https://www.youtube.com/@uniqueerror" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25" />
-  </a>
-  <a href="https://x.com/unique_error" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25" />
-  </a>
-
-</div>
-
-<!-- VISITOR BADGE -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=unique-error.unique-error&" alt="Visitor badge" />
+  <a href="https://unique-error.github.io/samrajput/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Live–Site-111827?style=for-the-badge&logo=github&logoColor=00ffff&color=2d2d2d" />
+  </a>
 </p>
 
 ---
 
-### 🧠 **About Me**
+### 🎧 Now Playing on Spotify
 
-🪩 **Birthday:** ❶➈ 𝐉𝐮𝐥𝐲  
-🆂🆃🅰️🆃🆄🆂 – Single  
-🅷🅴🅰️🆁🆃 – Broken  
-🅼🅸🅽🅳 – Searching peace  
-🅻🅸🅵🅴 – Still has hope 😇  
-
----
-
-### 🎯 **What I Do**
-
-- 🎙️ **Singing**: I bring emotions to life through music  
-- 🎬 **Acting**: Stage, camera, or reel — I perform everywhere  
-- 💫 **Always Learning**: Creativity never sleeps  
-
----
-
-### ✨ **My Vibe**
-
-<p align="left">
-I’m not just a creator — I’m a vibe.  
-Every reel, every post, every lyric — it speaks **my style, my rhythm, and my story**.  
-From chaos to creativity, I turn every beat into something bold and meaningful. 🎭🎶🔥  
+<p align="center">
+  <a href="https://open.spotify.com/user/31vyk5eyp6mxwosr3wvf2oyxv44u" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31vyk5eyp6mxwosr3wvf2oyxv44u&cover_image=true&theme=novatorem&bar_color=00ffff&bar_color_cover=false" alt="Now Playing on Spotify" />
+  </a>
 </p>
 
 ---
 
+### 🧠 Who Am I?
+
+🧠 A mind full of ideas  
+🎭 A heart full of rhythm  
+🖥️ A keyboard full of dreams  
+
+I don’t just build websites — I build **vibes**.  
+Minimal by design, bold by nature. 🎯
+
+---
+
+### 🔧 Skills I Blend
+
+- 🎨 Design with emotion  
+- 💡 Ideas with impact  
+- 🎶 Audio with ambiance  
+- 🔧 Code with class  
+
+---
+
+### 💻 Tech Stack
+
+- HTML5  
+- CSS3 (Font Awesome + Google Fonts)  
+- JavaScript (Vanilla)  
+- GitHub Pages Hosting  
+
+---
+
 <p align="center">
-  🔥 Crafted with soul, sound & sass by <b>SaM RaJPuT</b> 💙  
+  🧠 Code. 🎭 Perform. 💫 Inspire. <br>
+  Built with 💙 by <b>SaM RaJPuT</b>
 </p>
