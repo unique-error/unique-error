@@ -5,7 +5,7 @@
        style="border-radius: 50%; background-color: #ffffff; box-shadow: 0 0 12px #00ffff;" alt="Sam Rajput" />
 </p>
 
-<h1 align="center">Hey there, I'm <span style="color:#00FFFF;">SaM RaJPuT</span> 👋</h1>
+<h1 align="center">Hey there, I'm <span style="color:#00FFFF;">SaM RaJPuT</span> 👋
 
 <p align="center"><i>Digital Crafter • Visual Vibes • Code Meets Creativity</i></p>
 
