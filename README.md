@@ -19,10 +19,6 @@
 
 ---
 
-<br>
-
-<br>
-
 <h2 align="center">🎧 Now Playing on Spotify</h2>
 
 <p align="center">
