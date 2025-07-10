@@ -1,14 +1,14 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="[https://ugc.production.linktr.ee/91484763-2051-4da1-8bf6-9e9060a7af45_New-file-ezgif.com-crop.gif?io=true&size=avatar](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZoZm0xMDExZWZkeW9lYXpzdWpubWhsNHBoZ2dpMmZlYzVkejdycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1lxopZD6ol4JnDoeAL/giphy.gif)" />
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZoZm0xMDExZWZkeW9lYXpzdWpubWhsNHBoZ2dpMmZlYzVkejdycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1lxopZD6ol4JnDoeAL/giphy.gif" />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://unique-error.github.io/samrajput/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Live–Portfolio-111827?style=for-the-badge&logo=github&logoColor=00ffff&color=2d2d2d" />
+    <img src="https://img.shields.io/static/v1?message=🌐 Live Portfolio&logo=githubpages&label=&color=00ffff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="live portfolio" />
   </a>
   <a href="https://linktr.ee/unique__error" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo" />
