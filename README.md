@@ -13,17 +13,6 @@
   
 ###
 
-<p align="center">
-  <iframe width="600" height="180" 
-    src="https://www.youtube.com/embed?listType=playlist&list=PLwSz7TC5qqd2A8ZDjJVH6qNYY87N7cFQX&autoplay=1&loop=1" 
-    style="border-radius:12px; box-shadow:0 0 25px #00ffff;" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</p>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=unique-error.unique-error&" />
 </div>
