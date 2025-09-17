@@ -10,7 +10,16 @@
   <a href="https://unique-error.github.io/samrajput/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Live–Portfolio-111827?style=for-the-badge&logo=github&logoColor=00ffff&color=2d2d2d" />
   </a>
-  
+</div>
+
+###
+
+<p align="center">
+  <a href="https://music.youtube.com/playlist?list=PLwSz7TC5qqd2A8ZDjJVH6qNYY87N7cFQX" target="_blank">
+    <img src="https://img.shields.io/badge/🎵 Most%20Playing%20Song%20Collection-FF00FF?style=for-the-badge&logo=youtube&logoColor=ffffff" style="border-radius:12px; box-shadow:0 0 25px #ff00ff;" />
+  </a>
+</p>
+
 ###
 
 <div align="center">
@@ -27,7 +36,6 @@
 
 <p align="left">🧠 ᴀ ᴍɪɴᴅ ꜰᴜʟʟ ᴏꜰ ɪᴅᴇᴀꜱ<br>🎭 ᴀ ʜᴇᴀʀᴛ ꜰᴜʟʟ ᴏꜰ ʀʜʏᴛʜᴍ<br>🖥️ ᴀ ᴋᴇʏʙᴏᴀʀᴅ ꜰᴜʟʟ ᴏꜰ ᴅʀᴇᴀᴍꜱ<br>ɪ ᴅᴏɴ’ᴛ ᴊᴜꜱᴛ ʙᴜɪʟᴅ ᴡᴇʙꜱɪᴛᴇꜱ — ɪ ʙᴜɪʟᴅ ᴠɪʙᴇꜱ<br>ᴍɪɴɪᴍᴀʟ ʙʏ ᴅᴇꜱɪɢɴ, ʙᴏʟᴅ ʙʏ ɴᴀᴛᴜʀᴇ. 🎯</p>
 
-
 <div>
   <img 
     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNzMm11YWYwNW5mOHlnejZiaDFkOHh4MmliaDZteGptc2NjNDkwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" 
@@ -35,5 +43,3 @@
     width="100%" 
     style="display: block; margin: 0 auto;" />
 </div>
-
- 
