@@ -50,3 +50,6 @@
     width="100%" 
     style="display: block; margin: 0 auto; box-shadow: 0 0 30px #ff00ff, 0 0 60px #ff00ff, 0 0 90px #ff00ff;" />
 </div>
+
+<p align="center">
+  Made with 💙 by <b>unique-error</b>
